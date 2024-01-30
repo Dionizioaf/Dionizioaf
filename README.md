@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [ Ops Life ](https://github.com/users/Dionizioaf/projects/3?pane=info)
+- 🌱 I’m currently learning this roadmap pending items:
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65b961b30c548122836609c0?variant=dark&roadmaps=devops%2Ckubernetes%2Ccyber-security%2Caws)](https://roadmap.sh)
+
 <!--
 **Dionizioaf/Dionizioaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
