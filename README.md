@@ -11,7 +11,7 @@ For more details:
 - [ Cyber security ](https://roadmap.sh/cyber-security?s=65b961b30c548122836609c0)
 - [ Kubernetes ](https://roadmap.sh/kubernetes?s=65b961b30c548122836609c0)
 - [ Docker ](https://roadmap.sh/docker?s=65b961b30c548122836609c0)
-
+- [ AWS Best Practices ](https://roadmap.sh/best-practices/aws?s=65b961b30c548122836609c0)
 
 
 
