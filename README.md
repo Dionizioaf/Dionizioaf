@@ -10,7 +10,7 @@ I'm Dionizio Ferreira, a passionate DevOps engineer with a keen interest in Kube
 
 ### What I'm Up To:
 
-- 🔭 I’m currently working on [Ops Life](https://github.com/users/Dionizioaf/projects/3?pane=info)
+- I’m currently working on [Ops Life](https://github.com/users/Dionizioaf/projects/3?pane=info)
 - 🌱 I’m currently learning through a structured roadmap encompassing DevOps, Kubernetes, Cybersecurity, and AWS. Check out my progress and resources below:
 
 [![My Progress](https://api.roadmap.sh/v1-badge/tall/65b961b30c548122836609c0?variant=dark&roadmaps=devops%2Ckubernetes%2Ccyber-security%2Caws)](https://roadmap.sh)
