@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Here is my contacts
+
+- [ X ](https://twitter.com/dionizioaf)
+- [Medium](https://dionizioferreira.medium.com)
+- [Linkedin](https://www.linkedin.com/in/dionizioaf/)
+
 - 🔭 I’m currently working on [ Ops Life ](https://github.com/users/Dionizioaf/projects/3?pane=info)
 - 🌱 I’m currently learning this roadmap pending items:
 
